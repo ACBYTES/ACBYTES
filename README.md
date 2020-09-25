@@ -1,5 +1,4 @@
 ### Hi there 👋
-### - 🔭 I’m currently working on ...
 ### - 🌱 I’m currently learning more C++ and UE4.
 ### - 👯 I’m looking to collaborate on softwares, web applications and games.
 ### - 💬 Ask me about anything related to programming.
